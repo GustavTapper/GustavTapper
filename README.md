@@ -1,4 +1,3 @@
-## Hi there 👋
 # Gustav Tapper | Portfolio
 This is my official portfolio website. 
 
